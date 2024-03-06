@@ -1,6 +1,6 @@
 {
   "name": "moera",
-  "version": "1.0.0",
+  "version": "1.1.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Origawa/moera/issues"
   },
-  "homepage": "https://github.com/Origawa/moera#readme"
+  "homepage": "https://github.com/Origawa/moera#readme",
+  "dependencies": {
+    "dave": "^0.2.1",
+    "moera": "^1.1.2"
+  }
 }
